@@ -1,6 +1,6 @@
 # Week 1 Assessment
 
-## Employee Data Analysis
+## Employee Salary Report - Main Branch
 
 ### Project Setup
 1. Install Python.
