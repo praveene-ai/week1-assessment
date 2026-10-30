@@ -1,7 +1,5 @@
 # Week 1 Assessment
-
-## Employee Salary Report - Main Branch
-
+## Employee Salary Report
 ### Project Setup
 1. Install Python.
 2. Install Pandas using pip install pandas.
